@@ -1,0 +1,1 @@
+This code is applicable when  the element is on lower bond or higher bond . for some cases it will show more time to execute it is bcoz of including two extra if than normal code  so its complexsity is bit higher  but with this code iteration get less in every case
